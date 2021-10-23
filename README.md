@@ -7,5 +7,7 @@
 - 💬 Ask me about **Web Development**
 - :man_technologist: All of my projects are available at [my website](https://vinayprajapati.me/).
 - 📫 How to reach me: vinayp3321@gmail.com
-- ⚡ Fun fact: ...
 
+
+##Languages and Tools:
+(https://www.cprogramming.com/)
