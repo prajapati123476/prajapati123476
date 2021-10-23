@@ -9,5 +9,5 @@
 - 📫 How to reach me: vinayp3321@gmail.com
 
 
-##Languages and Tools:
-[](https://www.cprogramming.com/)
+## Languages and Tools:
+[c](https://www.cprogramming.com/)
