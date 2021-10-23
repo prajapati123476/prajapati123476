@@ -7,8 +7,8 @@
             alt="prajapati123476" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/VinayPr13697332" target="blank"><img
-            src="https://img.shields.io/twitter/follow/prajapati123476?logo=twitter&style=for-the-badge"
-            alt="prajapati123476" /></a> </p>
+            src="https://img.shields.io/twitter/follow/VinayPr13697332?logo=twitter&style=for-the-badge"
+            alt="VinayPr13697332" /></a> </p>
 
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **React**
