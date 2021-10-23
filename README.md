@@ -6,7 +6,7 @@
             src="https://github-profile-trophy.vercel.app/?username=prajapati123476&theme=dracula"
             alt="prajapati123476" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/prajapati123476" target="blank"><img
+<p align="left"> <a href="https://twitter.com/VinayPr13697332" target="blank"><img
             src="https://img.shields.io/twitter/follow/prajapati123476?logo=twitter&style=for-the-badge"
             alt="prajapati123476" /></a> </p>
 
@@ -32,31 +32,24 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
-            height="40" /> </a>
-
-            <a href="https://www.w3schools.com/cpp/" target="_blank"> <img
+            height="40" /> </a><a href="https://www.w3schools.com/cpp/" target="_blank"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
                 alt="cplusplus" width="40" height="40" /> </a>
-            
             <a href="https://www.javascript.com/" target="_blank"> <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/131px-Unofficial_JavaScript_logo_2.svg.png"
             alt="cplusplus" width="40" height="40" /> </a>
-            
             <a href="https://firebase.google.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
         </a> 
         <a href="https://git-scm.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-            
             <a
             href="https://www.java.com" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
             width="40" height="40" /> </a> 
- 
             <a href="https://www.linux.org/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
             width="40" height="40" /> </a> 
- 
             <a href="https://www.python.org" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" /> </a>
