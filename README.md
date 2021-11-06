@@ -16,7 +16,7 @@
 - 🤔 I’m looking for help with **React**
 - 💬 Ask me about **Web Development**
 - :man_technologist: All of my projects are available at [my website](https://vinayprajapati.me/).
-- 📫 How to reach me: vinayp3321@gmail.com
+- 📫 Reach me at: vinayp3321@gmail.com
 
 
 <h3 align="left">Connect with me:</h3>
