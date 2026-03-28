@@ -1,6 +1,6 @@
  
 <h1 align="center">Hi there 👋 I'm Vinay</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=prajapati123476&theme=dracula"
@@ -10,12 +10,9 @@
             src="https://img.shields.io/twitter/follow/VinayPr13697332?logo=twitter&style=for-the-badge"
             alt="VinayPr13697332" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development**
-- 🌱 I’m currently learning **React**
-- 👯 I’m looking to collaborate on **Web Development**
-- 🤔 I’m looking for help with **React**
-- 💬 Ask me about **Web Development**
-- :man_technologist: All of my projects are available at [my website](https://vinayprajapati.me/).
+- 🔭 I’m currently working at **Coforge as Softeware Engineer**
+- 👯 I’m looking to collaborate on **Web App Development**
+- :man_technologist: All of my projects are available at [my website](https://prajapati123476.github.io/).
 - 📫 Reach me at: vinayp3321@gmail.com
 
 
