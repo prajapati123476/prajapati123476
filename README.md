@@ -10,7 +10,7 @@
             src="https://img.shields.io/twitter/follow/VinayPr13697332?logo=twitter&style=for-the-badge"
             alt="VinayPr13697332" /></a> </p>
 
-- 🔭 I’m currently working at **Coforge as Softeware Engineer**
+- 🔭 I’m currently working at **Coforge as Software Engineer**
 - 👯 I’m looking to collaborate on **Web App Development**
 - :man_technologist: All of my projects are available at [my website](https://prajapati123476.github.io/).
 - 📫 Reach me at: vinayp3321@gmail.com
